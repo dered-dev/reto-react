@@ -1,9 +1,13 @@
 import React from 'react'
 import './App.css'
+import Footer from './Components/Footer/Footer'
 
-function App () {
+function App() {
   return (
-    <div className='App' />
+    <div className='App'>
+      <Footer />
+    </div>
+
   )
 }
 

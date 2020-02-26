@@ -1,0 +1,16 @@
+/*Styles Footer*/
+
+.AppFooter {
+  contain: content;
+  background-color: #fafafa;
+  text-align: left;
+  font-size: .9375rem;
+  font-weight: 500;
+}
+
+.AppFooter__href {
+  color: #706e70;
+  display: block;
+  text-decoration: none;
+  margin-bottom: .3125rem;
+}
